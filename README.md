@@ -20,7 +20,7 @@ weather_api_test/
 └── README.md # 项目说明
 
 ## 如何运行
-1. 克隆项目: `git clone https://github.com/你的用户名/仓库名.git`
+1. 克隆项目: `git clone https://github.com/2970043992zxy-ux/weather-api-autotest.git`
 2. 安装依赖: `pip install -r requirements.txt`
 3. 运行测试: `pytest test_weather_api.py -v --alluredir=./allure-results`
 4. 查看报告: `allure serve ./allure-results`
